@@ -1,0 +1,23 @@
+
+
+
+public class ProgramaCine
+
+
+
+
+
+{
+
+ 
+
+         public static void main (Strings[]argumentos)
+{
+ 
+              System.out.println ("Mi primer programa");
+              System.out.println ("PROGRAMA CINE");
+}
+
+
+
+}
