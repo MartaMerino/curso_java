@@ -1,0 +1,7 @@
+@echo off 
+title Bucle de ejemplo 
+color Ac
+:bucle
+echo EL NUEVO MONO EL NUEVO MONO EL NUEVO MONO EL NUEVO MONO EL NUEVO MONO 
+echo EL NUEVO MONO EL NUEVO MONO EL NUEVO MONO EL NUEVO MONO EL NUEVO MONO 
+goto bucle
